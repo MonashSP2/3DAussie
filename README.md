@@ -1,2 +1,7 @@
 # 3DAussie
-3 day challenges for new coming to Melbourne for Chinese international student
+Google map API in HTML
+1. set view (location and zoom)
+2. marker
+3. circle
+4. action listener
+5. information window
